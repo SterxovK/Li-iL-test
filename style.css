@@ -1,0 +1,17 @@
+body {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+ul li {
+    list-style: none; /* убираем дефолтные маркеры */
+}
+
+.tree span:hover {
+    font-weight: bold;
+}
+
+.tree span {
+    cursor: pointer;
+}
